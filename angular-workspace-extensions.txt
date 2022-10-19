@@ -1,0 +1,4 @@
+code --install-extension (alexiv.vscode-angular2-files)
+code --install-extension (angular.ng-template)
+code --install-extension (johnpapa.angular2)
+code --install-extension (yigitfindikli.primengsnippets)
